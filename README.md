@@ -2,6 +2,7 @@
 
 1. 프로그래머스 **코딩테스트 고득점 Kit**
 
+1) 해시
 |해시|문제|초기결과(O/X)|
 |----|--|--|
 |1|[완주하지못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|O|
